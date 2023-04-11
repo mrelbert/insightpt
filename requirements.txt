@@ -1,0 +1,4 @@
+flask
+werkzeug
+twilio
+boto3
